@@ -1,4 +1,4 @@
-# Single Cell RNA Analysis
+# Single Cell RNA Analysis - Parkinson's Disease
 
 **Bioinformatics Course Project** - HPC-based single-cell RNA-seq analysis.
 
